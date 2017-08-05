@@ -1,0 +1,33 @@
+
+
+i) Project creating From scratch (Beginner Level) 
+
+
+ii) Project import from the exisiting project into the workspace
+
+  File ---> Import ---> General --> Exisiting Project Workspace
+
+
+  Class : doesn't contain the main ()method
+
+  Objectc   ==> main () you can able to run
+               Every class must running from Object only because 
+               of Object creation
+
+In Scala Calling to the Object related methods directly no need to create any object
+
+    ops1();
+    ops2();
+    ops3();
+    ops4();
+
+
+In Java Kind of lang we need create Object manually then only call the respective methods
+
+  / ** Non Static methods java 
+  MyClass ref=new MyClass();
+  ref.ops1();
+  ref.ops2();
+  ref.ops3();
+  ref.ops4();
+

@@ -1,0 +1,114 @@
+
+PPT URL : http://iwinnertech.com/scalaWeb/day-1/index.html
+
+Books URL'S
+http://iwinnertech.com/scalaWeb/book/scalabook.pdf
+http://iwinnertech.com/scalaWeb/book/programInScala.pdf
+http://iwinnertech.com/scalaWeb/book/scalaByExample.pdf
+
+
+Author of Scala (or) Father of Scala:  Martin Odersky (Switzeland)
+He is also author of Java 5 version (Generic)
+
+    Java ===>>  Spring ,Struts,JSF
+    Scala ===> Play ,Spray,Browser ( Last 2 years)
+    
+      Scala + Spark 
+      Team 
+    
+              Java ===> Scala / Java + Spark
+            ETL ,DataWarehourse,BI(Tableu,QUick,SQL) Test=======> Python +Spark  (Pandas Lib and Numpy)  + R
+
+             Scala / Java ===========> .jar files (pandas jar
+             Python ================> lib  pandas.py lib
+              
+              Workspace ====> Collection Projects
+              Projects   ====>> Collection jar's
+              Jar=======> Collection packages
+              Package ===> Collection classes or interfaces(trait)===
+              Class ===> collection of methods and Variables 
+              Interface ==> only Specification [Declation only]
+              Method ===> One operation
+              varible ===>One value   String name="Neha"
+
+
+
+
+
+Interface:   find area();
+
+
+
+
+Class Rectangl  Rectangle implements Area{   }
+SQUArE
+Traiange
+Circule      
+
+               Scala : 2.10.6 =======>> Mac ===> 2.10.6
+              jdk 7                ===> jdk 7
+  
+        Dev / Staging Environemt ===============> Production (Live Environement)
+  
+
+val ===> value it is immutable (It can't be change similiar final ) I.e: Can't change
+
+var ===> Variable it is mmutable it can't be change
+
+var i=10 ;
+  
+int i=10;
+
+String name="anji";
+var name="anji"
+
+  Int ==============>> Long
+  1111111111            111111111111111111111111111111
+  
+ Float ===============> Double
+ 1111111.10f         1111111111111111111111111111.1111111111111111111111d
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

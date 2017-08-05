@@ -1,0 +1,31 @@
+Gluent:::==>>
+
+https://gluent.com
+
+ETL
+
+Source1
+         Extra==>>Trasn ===> Load ==>EDW
+Source2
+
+ETL Examples Employee Data
+
+Data Lake: Enterprse data stored in raw Form
+
+Data Hub :Centralized data Store with
+Standards,Governance,and quality
+
+
+Gluent uses Hadoop as a backend for affordable data storage and scalable computation 
+& heavy-lifting. 
+Gluent is a data virtualization layer that connects the power of Hadoop to your
+ traditional applications, transparently.
+
+
+
+
+
+ 
+
+
+

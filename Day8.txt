@@ -1,0 +1,18 @@
+
+In Scala We have concepts packages 
+
+Package : means collection of classes and interface(trait in scala)
+
+Packages we have 2 types
+      A) Predefined Package
+      B) UserDefined Package
+
+Ex: UserDefined Package : com.iwinner.scala.examples It is created by developer or us
+
+
+PreDefined Package : It is created by scala software 
+
+io (input and output )===>> (scala.io)
+Array,String ===> Scala (package)  scala is default package
+
+scala : Package name 

@@ -1,0 +1,55 @@
+  Introduction to Scala
+  
+i) Fast 
+
+ii) OOPS + Functional Programming
+
+
+C   ===> Product /Stur
+
+c++ ====>> OOPS  ( 90 % OOPS)
+
+java / C# and PHP,Python,Scala ================>> OOPS 96 % OOPS
+
+
+C,Cobol ,Pascal ,Main Frame ===>> Stu Prg Lang
+C++,
+Java,C# ,
+
+PHP,Python and scala,Perl ====>> OOPS (Not 100 % 97)
+
+
+Scala is Ruuning on JVM
+
+Scala & Java :   Compiler and Execution (Run Time)
+   ========================================================
+         i) Runs the code 
+         ii)Compiler Read the Source Code
+         iii)Identify the Compile time error
+
+               Scala  :   MyClass.scala
+        Compiler===>>              scalac  MyClass.scala
+                                   scala MyClass
+
+                                              MyClass.class  ( New File is Generated)
+                     javac MyClass.java
+                     java MyClass
+                      JVM is understand only .class
+
+
+Scala ,Java ,Ruby Clouer ,Groovy ===================>>> JVM (.classe file)
+       Windows(8)           Unix(8)              Linux                MacOS
+      *.class
+
+
+
+
+
+                     
+
+               java : MyClass.java
+       compiler ===> javac MyClass.java
+               Python : MyClass.py
+               Gmail : index.html  (HTML)
+
+Smalltalk

@@ -1,0 +1,62 @@
+Url GIT HUB: https://github.com/anjijava16
+GITHub : Integration of projects share to online 
+ GITHUB: Private creds  & Public Creds (any one can see the code and download the code)
+Package: Collection of classes and inteface (trait)
+
+ Neha : SQOOP Import From RDBMS (Netzzia) to Hadoop
+ Karthik: Hive Querys
+ Anji : OOZIE (Workflow)
+
+  3 Developers  10 AM to 7 PM : 8 to 9  Hours Commit the code 
+ Git : (Github)
+ SVN : (Apache)
+ CVS :
+ ClearCase (IBM)
+ BitBucket 
+
+=================================
+ def ===> Keyword 
+  def purpose is creating methods 
+ Unit  ===> it's doesn't any value (In Java it is equalent void keyword)
+
+  In Scala We can't run classes directly we should inside the Object (scala Object)
+
+ Note: IN the Object class Must require main method because main() is calling from JVM
+
+  Byte
+  Short
+  Char
+  Int
+  Float
+  Long
+  Double
+  Boolean
+  String
+
+  Unit (Void) :
+  Nothing
+  Any
+  AnyRef
+
+
+ Object ============>>
+ Any =============>> Int,Float ,Double
+
+
+   var : muttable (Can be change)
+   val : Immutable (can't be change)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

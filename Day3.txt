@@ -1,0 +1,65 @@
+
+  How to compile and Run the Scala Code : ===================
+=================================================================
+  c,C++,C#,=========>> Compile and Run the Code
+    c,C++ (Windows Operating)===================> .exe 
+                  D:\Codes\  abc.c
+                                2 (abc.c & abc.exe)  (this is depedent operating System)
+               Ex: tc abc.c (tc turbo Comiper)
+                       
+   Scalac MyClass.scala  (Complie)
+                         D:\Codes\scala\MyClass.scala
+                          Succesfully Compile code it will generate 2 files (MyClass.scala and MyClass.class) file
+
+ Here I have done compilation of the Code : 
+      OS: Windows
+     FileName: MyClass.scala
+                  *.Class is require for Run_TIME file 
+              scala MyClass
+
+
+
+
+      *.class
+        javac Myclass.java ( Here MyClass.class)
+              JVM : java Virtual Mechine
+Platform Indepedent 
+
+
+C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\scala\bin;.
+
+ REPL:===>>   Read-Eval(uate)-Print-Loop,
+
+   User ==> Invoke Service ==>> Any Prg Lan ==>>Java /IOS /NET/MainFrame/PHP/ (Adv C Lang) ===>> *.Class ===>>
+  Binay (0,1) ===>OS (Cluster Server) 
+
+
+
+
+
+      i)Object
+      ii)Class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

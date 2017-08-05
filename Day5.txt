@@ -1,0 +1,5 @@
+ Scala : We are able create manually: Scala Object and 
+                                      Scala Class
+
+In Java : We can create Directly: Java Class
+                                   InSide java class creating Object

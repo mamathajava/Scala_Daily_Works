@@ -1,0 +1,6 @@
+      ====>> Arrays <<<<<<<<
+
+i) Array Declation/ Creating with Size
+var names=new Array[DataTypes](Declaration of size);
+
+ii)var names2=Array[DataTypes](1,2,3,4)  //Assign the values

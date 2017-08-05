@@ -1,0 +1,40 @@
+
+
+Scala Programming 
+
+i)IDE's  (Ecplise,IntetJ,Scala Ecplise IDE,STS Eclipse IDE,NetBeansIDE,etc.....)
+
+ii)Command Prompt (REPL)
+
+
+
+C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\scala\bin;.
+
+
+Scala Is running on behalf java
+
+compiler : Scala But run time we are using JVM
+
+scala: 2.12.2 ====> Java 8 th or JDK 8  (Mand)
+
+2.11.2+  Java 8 or JDK 8 Mand
+
+2.10 ===> java 7 or JDK 7 OK (JDK 7 is mand)
+
+
+Workspace: Group of Projects
+
+
+Once Opned IDE :
+
+For Creating Project
+
+File ====> New ===> Scala Project (introductionScala)
+
+Ex: calacuProject
+    Mutliple Operation
+             i)AdditionClass 
+             ii)MutltipcationClass
+             iii)SubtractionClass
+           ---- 20 + Classes 
+

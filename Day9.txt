@@ -1,0 +1,18 @@
+operationOne ==========> 2 things
+          i)Scala Object 
+          ii)Scala Class
+
+Jar file Name is : operationOne
+
+
+Right Click in Eclipse ==> Export ==> Select Jar ===> Creat Here jar file locate into the some location.
+=======================
+MainProject : Inside the MainProject i want use operationOne Jar file
+
+=====================================
+  if(Statement)  {
+           
+         } else if(Statement) {
+   } else {
+
+}

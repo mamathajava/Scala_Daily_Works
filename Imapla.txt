@@ -1,0 +1,36 @@
+i) impala-shell
+
+  --> Query Perfomance work
+  --> Compare some of these times 
+
+
+ii) Hive --> MR 
+
+iii)Impala --->
+
+Google Dremel Paper:
+  Impala,Drill Druid,BigQuery
+
+2012 : Imapla
+
+impala-shell
+>
+
+Hive MetaStore
+
+Impala ,Hive,SparkSQL,Drill,Presto
+
+
+>invalidate metadata
+
+>Hive MetaStore : Data Dictiorny for Hadoop
+
+Columns Data Strucrures
+
+> impalad 
+
+> summary;
+
+
+
+
