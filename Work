@@ -1,0 +1,35 @@
+shashankgowdal
+http://blog.madhukaraphatak.com/history-of-spark
+
+Hadoop :Spark
+Hive  :SparkSQL
+Apache Mahout  : MLIB
+Imapla : SparkSQL
+Apache Giraph : Graphx
+Apache Storm : Spark Straming
+
+
+phatak-dev
+spark-summit.org/talk/zaharia-the-state-of-spark-and where-were-going/
+
+Immutabl: once created never changes
+Big data by default immutable in nature
+Immutableility helps to 
+ Parallelize
+ Caching
+
+Immutablity is about value not the reference.
+
+var Muutable
+val Immutable
+
+
+================
+Resilient : Fault Tolerance
+A big collection of data with following properties
+ -->Immutable
+ -->Disributed 
+ -->Lazily Evalutaed
+--> Type interfred
+
+
